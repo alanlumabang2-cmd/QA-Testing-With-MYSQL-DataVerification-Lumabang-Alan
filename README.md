@@ -1,4 +1,4 @@
-[readme.md](https://github.com/user-attachments/files/33674071/readme.md)
+
 # QAT Toolkit: Kara David's Wish Note
 
 ## Repository Overview
